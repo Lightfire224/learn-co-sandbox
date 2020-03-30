@@ -1,0 +1,5 @@
+picnic_ingredients = ["wine", "jalapanños", "donkey feed"]
+
+picnic_ingredients[2] = "Belgian chocolate"
+
+p picnic_ingredients
